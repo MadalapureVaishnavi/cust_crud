@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\cust_crrud.props" />
+</Project>
